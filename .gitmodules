@@ -1,0 +1,3 @@
+[submodule "src/data/private"]
+	path = src/data/private
+	url = https://github.com/EmergenceDeveloper/heritage-data.git

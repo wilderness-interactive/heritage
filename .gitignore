@@ -1,0 +1,6 @@
+/target
+/public
+
+# Private data lives in submodule (src/data/private/)
+# The submodule itself is tracked, but listed here as a reminder
+/sources
